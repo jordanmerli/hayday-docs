@@ -2,7 +2,7 @@ title: Hay Day IT Bot
 description: Documentazione ufficiale.
 
 # Impostazioni URL per JordanMerli
-url: "https://jordanmerli.github.io"
-baseurl: "/hayday-docs" # Deve essere uguale al nome del repository
+url: https://jordanmerli.github.io
+baseurl: /hayday-docs # Deve essere uguale al nome del repository
 
 remote_theme: just-the-docs/just-the-docs
