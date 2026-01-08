@@ -7,3 +7,5 @@ baseurl: "/hayday-docs"
 
 # Configurazione Tema
 remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
