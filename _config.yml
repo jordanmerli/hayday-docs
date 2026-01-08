@@ -1,8 +1,9 @@
 title: Hay Day IT Bot
-description: Documentazione ufficiale.
+description: Documentazione ufficiale del bot italiano di Hay Day.
 
-# Impostazioni URL per JordanMerli
-url: https://jordanmerli.github.io
-baseurl: /hayday-docs # Deve essere uguale al nome del repository
+# Configurazione URL fondamentale
+url: "https://jordanmerli.github.io"
+baseurl: "/hayday-docs"
 
+# Configurazione Tema
 remote_theme: just-the-docs/just-the-docs
